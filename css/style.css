@@ -1,0 +1,28 @@
+/* Start Global Rules */
+body {
+    padding: 20px;
+    background-color: #111;
+    font-size: 1.25rem;
+}
+/* End Global Rules */
+
+h1 {
+    background-image: linear-gradient(#C6FFDD , #FBD786, #f7797d);
+    color: transparent;
+    text-align: center;
+    background-clip: text;
+    margin-bottom: 30px;
+}
+
+input {
+    &::placeholder {
+        font-size: 18px;
+    }
+}
+
+table {
+    border-radius: 10px;
+    thead {
+        font-size: ;
+    }
+}
